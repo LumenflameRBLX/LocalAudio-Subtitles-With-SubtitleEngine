@@ -6,7 +6,7 @@ The main use case of this is to take advantage of the subtitle configuration in 
 
 Setup is an easy drop-and-replace. Simply replace your existing LocalAudioSubtitles module with the one in this repo, and ensure Subtitle Engine is set up (default settings can remain, if you change anything, make sure the "Self" profile exists, and has no speaker name). If you do that correctly, it should work!
 
-If you haven't used Subtitle Engine before, get the latest verison [here](https://devforum.roblox.com/t/subtitle-engine/3781802). You shouldn't need to modify any settigns besides the subtitle window if you want to change how it looks.
+If you haven't used Subtitle Engine before, get the latest verison [here](https://devforum.roblox.com/t/subtitle-engine/3781802). You shouldn't need to modify any settings besides the subtitle window if you want to change how it looks.
 
 If this is your first time using LocalAudioSubtitles, please refer to the original repo's readme for how to set up subtitles.
 
